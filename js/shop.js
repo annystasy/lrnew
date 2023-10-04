@@ -87,7 +87,7 @@ $(document).ready(function() {
 			<input readonly class="product0"></input>
 			<input readonly class="amount0"></input>
 			</div>`)
-			$('.product0').val("Пастила "Шарфик"");
+			$('.product0').val("Пастила Шарфик");
 			$('.amount0').val(cart[i]);
 					break;
 
@@ -99,7 +99,7 @@ $(document).ready(function() {
 			<input readonly class="product1"></input>
 			<input readonly class="amount1"></input>
 			</div>`)
-			$('.product1').val("Пастила "Воздушная"");
+			$('.product1').val("Пастила Воздушная");
 			$('.amount1').val(cart[i]);
 					break;
 		
@@ -111,7 +111,7 @@ $(document).ready(function() {
 			<input readonly class="product2"></input>
 			<input readonly class="amount2"></input>
 			</div>`)
-			$('.product2').val("Пастила "Классик"");
+			$('.product2').val("Пастила Классик");
 			$('.amount2').val(cart[i]);
 					break;
 			
@@ -135,7 +135,7 @@ $(document).ready(function() {
 			<input readonly class="product4"></input>
 			<input readonly class="amount4"></input>
 			</div>`)
-			$('.product4').val("Пастила "Малинка"");
+			$('.product4').val("Пастила Малинка");
 			$('.amount4').val(cart[i]);
 					break;
 
